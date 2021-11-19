@@ -1,5 +1,5 @@
 # 使用的时候，自己创建一个 config.toml
 
-secret = "your-secret"  # 空字符串表示没有 secret
-hookUrl = "/github-webhook"
-port = 8080
+Secret = "your-secret"  # 空字符串表示没有 secret
+HookUrl = "/github-webhook"
+Port = 8080
